@@ -1,6 +1,6 @@
 ## topological-sort
 
-An implementation of [Kahn's Algorithm](https://en.wikipedia.org/wiki/Topological_sorting#Kahn's_algorithm), [written for my post](https://cards.jordanscales.com/toposort) on using topological sort to generate z-index values.
+An implementation of [Kahn's Algorithm](https://en.wikipedia.org/wiki/Topological_sorting#Kahn's_algorithm), [written for my post](https://notes.jordanscales.com/toposort) on using topological sort to generate z-index values.
 
 ### example
 
